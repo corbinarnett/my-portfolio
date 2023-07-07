@@ -1,7 +1,6 @@
 import React from "react";
 import {
   FaLinkedin,
-  FaTwitterSquare,
   FaInstagramSquare,
   FaGithubSquare,
 } from "react-icons/fa";
