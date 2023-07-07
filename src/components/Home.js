@@ -51,12 +51,6 @@ const Home = () => {
                 className="hover:scale-110 fill-[#e95950]"
               />
             </a>
-            <a href="https://twitter.com/corbin_arnett" target="blank">
-              <FaTwitterSquare
-                size={40}
-                className="hover:scale-110 fill-[#1DA1F2]"
-              />
-            </a>
           </div>
         </div>
         {/* Image */}
